@@ -1,0 +1,16 @@
+All Autocomplete
+AutoFileName
+BracketGuard
+ColorHelper
+Compare Side-By-Side
+Dictionaries
+Emmet
+File Navigator
+HTMLBeautify
+Javascript Beautify
+JavaScript Completions
+LESS
+Material Theme
+Package Control
+SideBarEnhancements
+View In Browser
